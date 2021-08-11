@@ -13,7 +13,7 @@
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
 📄 &nbsp;Moje CV naleznete [zde](https://tinyurl.com/cv-vojtech). Jsem otevřený všem připomínkám a doporučením!
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack:
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=rest-api)&nbsp;
@@ -28,8 +28,10 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=docker)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Socials:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vojtech-chaloupka/"><img src="https://img.shields.io/badge/-Vojtěch Chaloupka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
