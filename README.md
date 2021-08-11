@@ -1,4 +1,4 @@
-![Vojtech_banner](https://drive.google.com/file/d/1L_K7DuX71rSexoxoz8xwkfS0X-3-nWyt/view?usp=sharing)
+![Vojtech_banner](https://drive.google.com/file/d/1L_K7DuX71rSexoxoz8xwkfS0X-3-nWyt/uc?usp=sharing)
 
 <h2>Ahoj! Já jsem Vojtěch!</h2>
 
