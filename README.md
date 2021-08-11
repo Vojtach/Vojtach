@@ -13,6 +13,8 @@
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
 📄 &nbsp;Moje CV naleznete [zde](https://tinyurl.com/cv-vojtech). Jsem otevřený všem připomínkám a doporučením!
 
+Můj FizzBuzz: [FizzBuzz](https://pastebin.com/s9n2XaCy)
+
 ### 🛠 &nbsp;Tech Stack:
 
 <!-- ## Programming Languages -->
