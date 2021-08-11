@@ -1,6 +1,6 @@
 ![Vojtech_banner](https://drive.google.com/file/d/1L_K7DuX71rSexoxoz8xwkfS0X-3-nWyt/view?usp=sharing)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Ahoj! Já jsem Vojtěch!</h2>
 
 <!-- ## 👋 &nbsp;Ahoj! Já jsem Vojtěch! -->
 
