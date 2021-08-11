@@ -29,11 +29,11 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=docker)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
 
 ### 🤝🏻 &nbsp;Socials:
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/vojtech-chaloupka/"><img src="https://img.shields.io/badge/-Vojtěch Chaloupka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/vojta.chaloupka.505/"><img src="https://img.shields.io/badge/-Vojtěch Chaloupka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
