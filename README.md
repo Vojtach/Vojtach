@@ -13,8 +13,6 @@
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
 📄 &nbsp;Moje CV naleznete [zde](https://tinyurl.com/cv-vojtech). Jsem otevřený všem připomínkám a doporučením!
 
-<img alt="Night Coding" src="https://drive.google.com/file/d/1L_K7DuX71rSexoxoz8xwkfS0X-3-nWyt/view?usp=sharing" align="center"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
