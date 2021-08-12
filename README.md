@@ -23,7 +23,7 @@ Kdo má rád <b>FizzBuzz</b>? Tady máte můj: [FizzBuzz](https://pastebin.com/s
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
 
 <!-- ## APIs/Libs/Etc -->
-![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=rest-api)&nbsp;
+![RESTAPI](https://img.shields.io/badge/-REST API-05122A?style=flat&logo=rest-api)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
