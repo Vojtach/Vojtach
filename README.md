@@ -9,7 +9,7 @@
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#!\
 🎓 &nbsp;V této chvíli studuji na ŠKODA AUTO Vysoké škole.\
 🌱 &nbsp;Nyní se chci více vzdělat v REST API a ASP.NET.\
-✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvement.\
+✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvementu.\
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
 📄 &nbsp;Moje CV naleznete [zde](https://tinyurl.com/cv-vojtech). Jsem otevřený všem připomínkám a doporučením!
 
