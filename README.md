@@ -11,7 +11,7 @@
 🌱 &nbsp;Nyní se chci více vzdělat v <b>REST API</b> a <b>ASP.NET</b>.\
 ✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvementu.\
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
-📄 &nbsp;Moje CV naleznete [zde](https://tinyurl.com/cv-vojtech). Jsem otevřený všem připomínkám a doporučením!
+📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1EdjUIA08cpQfklU70i9EfbdZ1xLpGntQ/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
 
 Kdo má rád <b>FizzBuzz</b>? Tady máte můj: [FizzBuzz](https://pastebin.com/s9n2XaCy)
 
