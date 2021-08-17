@@ -1,4 +1,4 @@
-![Vojtech_banner](https://drive.google.com/uc?export=view&id=1ib8_To2c9vIIOin96p0dcTcRarf-DfBE)
+![Vojtech_banner](/Assets/hero_img.jpg)
 
 <h2>Ahoj! Já jsem Vojtěch!</h2>
 
