@@ -8,10 +8,10 @@
 
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#!\
 🎓 &nbsp;V této chvíli studuji na [ŠKODA AUTO Vysoké škole](https://www.savs.cz/).\
-🌱 &nbsp;Nyní se chci více vzdělat v <b>REST API</b> a <b>ASP.NET</b>.\
+🌱 &nbsp;Nyní se chci více vzdělat v <b>Blazor</b> a <b>ASP.NET</b>.\
 ✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvementu.\
 ✉️ &nbsp;Kontaktujte mě na chaloupka202@gmail.com pro spolupráci. Odepíši jak nejrychleji můžu.\
-📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1QmEGOxYOEAdOjLjZLgM-ttF736WZzibW/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
+📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1E7-upUgXYmmCu9Q0cGBW5Nspxmv7YNfh/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
 
 Kdo má rád <b>FizzBuzz</b>? Tady máte můj: [FizzBuzz](https://pastebin.com/s9n2XaCy)
 
