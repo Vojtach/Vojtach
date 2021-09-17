@@ -27,6 +27,10 @@ Kdo má rád <b>FizzBuzz</b>? Tady máte můj: [FizzBuzz](https://pastebin.com/s
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
+<!-- ## Subsystems -->
+![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp;
+![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp;
+
 <!-- ## Web -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,14 +39,17 @@ Kdo má rád <b>FizzBuzz</b>? Tady máte můj: [FizzBuzz](https://pastebin.com/s
 <!-- ## Git systems -->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Gitbucket](https://img.shields.io/badge/-Gitbucket-05122A?style=flat&logo=git)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 
 <!-- ## Technology -->
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 
 <!-- ## App know-how -->
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
