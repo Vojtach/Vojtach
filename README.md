@@ -1,10 +1,10 @@
 ![Vojtech_banner](/Assets/hero_img.jpg)
 
-<h2>Ahoj! Já jsem Vojtěch!</h2>
+## Ahoj! Já jsem Vojtěch!
 
 <!-- ## 👋 &nbsp;Ahoj! Já jsem Vojtěch! -->
 
-## 👨🏻‍💻 &nbsp;O mě:
+### 👨🏻‍💻 &nbsp;O mě:
 
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#.\
 🎓 &nbsp;V této chvíli studuji na [ŠKODA AUTO Vysoké škole](https://www.savs.cz/).\
@@ -14,12 +14,11 @@
 
 📘 &nbsp;Spolupráce v angličtině pro mě není problém 
 
-## ✉️ &nbsp;Kontakt:
+### ✉️ &nbsp;Kontakt:
 
-[chaloupka202@gmail.com](mailto:chaloupka202@gmail.com)
-[+420 734 246 334](tel:734246334)
+[chaloupka202@gmail.com](mailto:chaloupka202@gmail.com) | [+420 734 246 334](tel:734246334)
 
-# 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 
 <!-- ## [start] Programming Languages -->
 ### Programovací jazyky:
@@ -84,5 +83,5 @@
 </p>
 
 <!-- 
-Hello there **:)
+Hello there :)
 -->
