@@ -16,7 +16,7 @@
 
 ### ✉️ &nbsp;Kontakt:
 
-[chaloupka202@gmail.com](mailto:chaloupka202@gmail.com?subject="Zpráva z githubu")
+[chaloupka202@gmail.com](mailto:chaloupka202@gmail.com)
 [+420 734 246 334](tel:734246334)
 
 # 🛠 &nbsp;Tech Stack:
