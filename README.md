@@ -34,6 +34,7 @@ Telefon: [+420 734 246 334](tel:734246334)
 
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">
 </p>
 
 <p align="center">
