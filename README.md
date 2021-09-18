@@ -32,6 +32,11 @@ Telefon: [+420 734 246 334](tel:734246334)
 <!-- [start] Github Info -->
 <h3 align="center">🤝🏻 &nbsp;Github Info:</h3>
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 <p align="center">
 <img src="https://img.shields.io/github/followers/vojtach?style=social"/></a>&nbsp;<img src="https://img.shields.io/github/stars/vojtach?style=social"/></a>
 </p>
@@ -45,3 +50,12 @@ Telefon: [+420 734 246 334](tel:734246334)
 <a href="https://www.facebook.com/vojta.chaloupka.505/"><img src="https://img.shields.io/badge/-Vojtěch Chaloupka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <!-- [end] Socials -->
+
+<!--
+
+Tools used:
+  Shields.io: https://shields.io/
+  Github Flavored Markdown: https://guides.github.com/features/mastering-markdown/
+                            https://github.github.com/gfm/
+
+-->
