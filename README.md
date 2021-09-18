@@ -16,8 +16,8 @@
 
 ### ✉️ &nbsp;Kontakt:
 
-> [chaloupka202@gmail.com](mailto:chaloupka202@gmail.com?subject="Zpráva z githubu")
-> | [+420 734 246 334](tel:734246334)
+[chaloupka202@gmail.com](mailto:chaloupka202@gmail.com?subject="Zpráva z githubu")
+[+420 734 246 334](tel:734246334)
 
 ### 🛠 &nbsp;Tech Stack:
 
@@ -30,7 +30,7 @@
 <!-- ## [end] Programming Languages -->
 
 <!-- ## [start] APIs/Libs/Backend -->
-### Backend:
+## Backend:
 
 ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
@@ -38,7 +38,7 @@
 <!-- ## [end] APIs/Libs/Backend -->
 
 <!-- ## [start] Subsystems -->
-### Desktop:
+# Desktop:
 
 ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp;
 ![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp;
