@@ -1,10 +1,6 @@
 ![Vojtech_banner](/Assets/hero_img.jpg)
 
-## Ahoj! Já jsem Vojtěch!
-
-<!-- ## 👋 &nbsp;Ahoj! Já jsem Vojtěch! -->
-
-### 👨🏻‍💻 &nbsp;O mě:
+# 👨🏻‍💻 &nbsp;O mě:
 
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#.\
 🎓 &nbsp;V této chvíli studuji na [ŠKODA AUTO Vysoké škole](https://www.savs.cz/).\
@@ -20,14 +16,10 @@
 
 ## 🛠 &nbsp;Tech Stack:
 
-<div style="width: 100%;">
-       <div style="width: 50%; height: 100px; float: left;"> 
-           Left Div 
-       </div>
-       <div style="margin-left: 50%; height: 100px;"> 
-           Right Div
-       </div>
-</div>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <!-- ## [start] Programming Languages -->
 ### Programovací jazyky:
