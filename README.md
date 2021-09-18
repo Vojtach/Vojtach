@@ -34,6 +34,8 @@ Telefon: [+420 734 246 334](tel:734246334)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">\
+</p>\
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vojtach&layout=compact&theme=github_dark">
 </p>
 
