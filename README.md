@@ -30,7 +30,7 @@ Telefon: [+420 734 246 334](tel:734246334)
 <!-- [end] Tech Stack Table -->
 
 <!-- [start] Github Info -->
-<h3 align="center">🤝🏻 &nbsp;Github Info:</h3>
+<h2 align="center">🤝🏻 &nbsp;Github Info:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">\
@@ -49,7 +49,7 @@ Telefon: [+420 734 246 334](tel:734246334)
 <!-- [end] Github Info -->
 
 <!-- [start] Socials -->
-<h3 align="center">🤝🏻 &nbsp;Socials:</h3>
+<h2 align="center">🤝🏻 &nbsp;Socials:</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vojtech-chaloupka/"><img src="https://img.shields.io/badge/-Vojtěch Chaloupka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
