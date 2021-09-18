@@ -33,12 +33,16 @@ Telefon: [+420 734 246 334](tel:734246334)
 <h3 align="center">🤝🏻 &nbsp;Github Info:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">\
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vojtach&layout=compact&theme=github_dark">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vojtach?style=social"/>&nbsp;<img src="https://img.shields.io/github/stars/vojtach?style=social"/>&nbsp;<img src="https://badges.pufler.dev/repos/vojtach">&nbsp;<img src="https://badges.pufler.dev/commits/all/vojtach">&nbsp;<img src="https://komarev.com/ghpvc/?vojtach&color=blue">&nbsp;<img src="https://komarev.com/ghpvc/?vojtach&color=blue">
+  <img src="https://img.shields.io/github/followers/vojtach?style=social"/>&nbsp;<img src="https://img.shields.io/github/stars/vojtach?style=social"/>&nbsp;
+  <img src="https://badges.pufler.dev/repos/vojtach">&nbsp;
+  <img src="https://badges.pufler.dev/commits/all/vojtach">&nbsp;
+  <img src="https://komarev.com/ghpvc/?vojtach&color=blue">&nbsp;
+  <img src="https://komarev.com/ghpvc/?vojtach&color=blue">
 </p>
 <!-- [end] Github Info -->
 
