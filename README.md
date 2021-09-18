@@ -25,9 +25,7 @@
 
 | Programovací jazyky | Backend | Second Header | Desktop | Cloud a source control | Technologie | IDE a aplikace |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp; | ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp;
+| ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp; ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp; | ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp; | ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp;
 ![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp; | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
