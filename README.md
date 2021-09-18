@@ -33,9 +33,7 @@ Telefon: [+420 734 246 334](tel:734246334)
 <h3 align="center">🤝🏻 &nbsp;Github Info:</h3>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/github/followers/vojtach?style=social"/></a>
-![GithubFollow](https://img.shields.io/github/followers/vojtach?style=social)
-  https://img.shields.io/github/followers/vojtach?style=social
+<img src="https://img.shields.io/github/followers/vojtach?style=social"/></a>
 </p>
 <!-- [end] Tech Stack Table -->
 
