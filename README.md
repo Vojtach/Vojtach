@@ -18,10 +18,10 @@
 
 | Programovací jazyky: | Backend: | Desktop: | Web: | Cloud a source control: | Technologie | IDE a aplikace: |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp; | ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp; | ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp; | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | CONTENT | Content Cell | CONTENT |
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp; | ![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp; | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; | CONTENT | Content Cell | CONTENT |
-| ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp; | ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; | Content Cell | CONTENT | Content Cell | CONTENT |
-| Content Cell | Content Cell | CONTENT | Content Cell | CONTENT | Content Cell | CONTENT |
+| ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp; | ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp; | ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp; | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; | Content Cell | CONTENT |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp; | ![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp; | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; | Content Cell | CONTENT |
+| ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp; | ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; | Content Cell | ![Gitbucket](https://img.shields.io/badge/-Gitbucket-05122A?style=flat&logo=git)&nbsp; | Content Cell | CONTENT |
+| Content Cell | Content Cell | CONTENT | Content Cell | ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp; | Content Cell | CONTENT |
 
 <!-- ## [start] Programming Languages -->
 ### Programovací jazyky:
