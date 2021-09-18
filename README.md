@@ -16,13 +16,13 @@
 
 ### ✉️ &nbsp;Kontakt:
 
-> [chaloupka202@gmail.com](mailto:chaloupka202@gmail.com?subject=Zpráva z githubu")
+> [chaloupka202@gmail.com](mailto:chaloupka202@gmail.com?subject="Zpráva z githubu")
 > | [+420 734 246 334](tel:734246334)
 
 ### 🛠 &nbsp;Tech Stack:
 
 <!-- ## [start] Programming Languages -->
-### &nbsp;Programovací jazyky:
+### Programovací jazyky:
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -30,7 +30,7 @@
 <!-- ## [end] Programming Languages -->
 
 <!-- ## [start] APIs/Libs/Backend -->
-### &nbsp;Backend:
+### Backend:
 
 ![RESTAPI](https://img.shields.io/badge/-REST-05122A?style=flat&logo=.net)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
@@ -38,21 +38,21 @@
 <!-- ## [end] APIs/Libs/Backend -->
 
 <!-- ## [start] Subsystems -->
-### &nbsp;Desktop:
+### Desktop:
 
 ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=csharp)&nbsp;
 ![Winforms](https://img.shields.io/badge/-Winforms-05122A?style=flat&logo=csharp)&nbsp;
 <!-- ## [end] Subsystems -->
 
 <!-- ## [start] Web -->
-### &nbsp;Web:
+### Web:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 <!-- ## [start] Source and cloud systems -->
-### &nbsp;Cloud a source control:
+### Cloud a source control:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -61,7 +61,7 @@
 <!-- ## [end] Source and cloud systems -->
 
 <!-- ## [start] Technology -->
-### &nbsp;Technologie:
+### Technologie:
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
@@ -70,7 +70,7 @@
 <!-- ## [end] Technology -->
 
 <!-- ## App know-how -->
-### &nbsp;IDE a aplikace:
+### IDE a aplikace:
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
