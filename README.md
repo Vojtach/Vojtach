@@ -16,6 +16,7 @@
 
 # 🛠 &nbsp;Tech Stack:
 
+|  |  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
