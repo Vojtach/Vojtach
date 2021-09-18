@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Tech Stack:
 
 <!-- ## [start] Programming Languages -->
-## Programovací jazyky:
+<h2>Programovací jazyky:</h2>
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
