@@ -10,14 +10,13 @@
 
 📘 &nbsp;Spolupráce v angličtině pro mě není problém 
 
-### ✉️ &nbsp;Kontakt:
+## ✉️ &nbsp;Kontakt:
 
 [chaloupka202@gmail.com](mailto:chaloupka202@gmail.com) | [+420 734 246 334](tel:734246334)
 
-## 🛠 &nbsp;Tech Stack:
+# 🛠 &nbsp;Tech Stack:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
