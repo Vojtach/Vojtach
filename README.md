@@ -37,7 +37,7 @@ Telefon: [+420 734 246 334](tel:734246334)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vojtach?style=social"/>&nbsp;<img src="https://img.shields.io/github/stars/vojtach?style=social"/>&nbsp;<img src="https://badges.pufler.dev/repos/vojtach">&nbsp;<img src="https://badges.pufler.dev/commits/all/vojtach">&nbsp;<img src="https://badges.pufler.dev/years/vojtach">&nbsp;<img src="https://badges.pufler.dev/visits/vojtach/Vojtach">
+  <img src="https://img.shields.io/github/followers/vojtach?style=social"/>&nbsp;<img src="https://img.shields.io/github/stars/vojtach?style=social"/>&nbsp;<img src="https://badges.pufler.dev/repos/vojtach">&nbsp;<img src="https://badges.pufler.dev/commits/all/vojtach">&nbsp;<img src="https://badges.pufler.dev/years/Vojtach">&nbsp;<img src="https://badges.pufler.dev/visits/vojtach/Vojtach">
 </p>
 <!-- [end] Github Info -->
 
