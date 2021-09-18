@@ -20,6 +20,15 @@
 
 ## 🛠 &nbsp;Tech Stack:
 
+<div style="width: 100%;">
+       <div style="width: 50%; height: 100px; float: left;"> 
+           Left Div 
+       </div>
+       <div style="margin-left: 50%; height: 100px;"> 
+           Right Div
+       </div>
+</div>
+
 <!-- ## [start] Programming Languages -->
 ### Programovací jazyky:
 
