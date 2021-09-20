@@ -18,7 +18,7 @@
 ## ✉️ &nbsp;Kontakt:
 
 E-mail: [chaloupka202@gmail.com](mailto:chaloupka202@gmail.com)\
-Telefon: [+420 734 246 334](tel:734246334)
+Telefon: [+420 734 246 334](tel:+420734246334)
 <!-- [end] Contact -->
 
 <!-- [start] Tech Stack Table -->
