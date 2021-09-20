@@ -33,10 +33,10 @@ Telefon: [+420 734 246 334](tel:+420734246334)
 <h2 align="center">🤝🏻 &nbsp;Github Info:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=github_dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=vojtach&theme=react&show_icons=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vojtach&layout=compact&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vojtach&layout=compact&theme=react">
 </p>
 
 <p align="center">
