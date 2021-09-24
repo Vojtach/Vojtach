@@ -57,15 +57,10 @@ Telefon: [+420 734 246 334](tel:+420734246334)
 </p>
 <!-- [end] Socials -->
 
-<!-- [start] Random Coding Banner -->
-![Random_banner](https://source.unsplash.com/collection/4325322)
-<!-- [end] Random Coding Banner -->
-
 <!--
 
 Tools used:
   Shields.io: https://shields.io/
-  Unsplash Random Picture API: https://source.unsplash.com/collection/4325322
   Github Flavored Markdown: https://guides.github.com/features/mastering-markdown/
                             https://github.github.com/gfm/
 
