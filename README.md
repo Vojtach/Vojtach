@@ -9,7 +9,7 @@
 🎓 &nbsp;V této chvíli studuji na [ŠKODA AUTO Vysoké škole](https://www.savs.cz/).\
 🌱 &nbsp;Nyní se chci více vzdělat v <b>Blazor</b> a <b>ASP.NET</b>.\
 ✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvementu.\
-📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1E7-upUgXYmmCu9Q0cGBW5Nspxmv7YNfh/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
+📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1FXS2VToj1GqelEupeCLhSGEf2X9lAIGH/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
 
 📘 &nbsp;Spolupráce v angličtině pro mě není problém.
 <!-- [end] About me -->
