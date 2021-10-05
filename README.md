@@ -61,8 +61,12 @@ Telefon: [+420 734 246 334](tel:+420734246334)
 
 Tools used:
   Shields.io: https://shields.io/
+
   Github Flavored Markdown: https://guides.github.com/features/mastering-markdown/
                             https://github.github.com/gfm/
+
   Github Stats: https://github-readme-stats.vercel.app/api/
+                https://komarev.com/ghpvc/
+                https://badges.pufler.dev/
 
 -->
