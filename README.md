@@ -6,7 +6,7 @@
 # 👨🏻‍💻 &nbsp;O mě:
 
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#.\
-🌱 &nbsp;Nyní se chci více vzdělat v <b>C#</b> a <b>ASP.NET</b>.\
+🌱 &nbsp;Nyní se chci více vzdělat v <b>Optimalizaci algoritmů</b> a <b>Softwarové architektuře</b>.\
 ✍️ &nbsp;Ve volném čase se věnuji fitness a self-improvementu.\
 📄 &nbsp;Moje CV naleznete [zde](https://drive.google.com/file/d/1FXS2VToj1GqelEupeCLhSGEf2X9lAIGH/view?usp=sharing). Jsem otevřený všem připomínkám a doporučením!
 
