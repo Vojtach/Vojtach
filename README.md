@@ -3,7 +3,7 @@
 <!-- [end] Banner -->
 
 <!-- [start] About me -->
-# 👨🏻‍💻 &nbsp;O mě:
+# 👨🏻‍💻 &nbsp;O mně:
 
 💡 &nbsp;Jsem soběstačný a výsledkově zaměřený student s zájmem o programování. Programuji již od roku 2018 a začínal jsem s jazykem C#.\
 🌱 &nbsp;Nyní se chci více vzdělat v <b>Optimalizaci algoritmů</b> a <b>Softwarové architektuře</b>.\
